@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: cardozovalenttina@gmail.com
-    phone: +57 3124095211
+#    phone: +57 3124095211
     website:  #do not add http://
     linkedin: valenttinacardozo
     github: valenttina
@@ -69,7 +69,13 @@ experiences:
           - Analysis and evaluation of relief systems in processing 
           gas plants and amine gas plants simulation on HYSYS and AFSA.
           - Simulation and P&IDs development of gas sweetening system.
-    
+
+- role: Blogger
+      time: 2020 - Present
+      company: The Social Justice + Engineering Initiative
+      details: |
+        I write about energy, social justice and related subjects.
+
     - role: Process Engineer
       time: 2018 - 2019
       company: Seringtec SAS
